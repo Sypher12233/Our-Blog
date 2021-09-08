@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=14, initial-scale=1.0">
+  <title>KHAN'S BLOG</title>
+  <h1>Hello everyone!</h1>
+</head>
+<body>
+  <p> This is <strong>Uzair.</strong>
+    I started coding about 2 months ago. At first,
+    I wanted to become a cyberscurity expert and also I wanted to learn about iOS app developing ; I think cybersecurity and coding might not sound related to oneanother,
+    but I didn't knew what to start with so, I started searching online and I learnd that the coding language for iOS is Swift. At the time I didn't had a macbook and my existing laptop was an hp with only 4gigs of RAM and 64GB SSD. So I had no chance to start learning Swift.
+    </p>
+    <p>I started taking classes online ie: watching videos and  I found out about these websites called <a href="https://www.sololearn.com/" target="_blank"/>SOLOLEARN AND <a href="https://freecodecamp.org/" target="_blank"/> Which are both excellent and free.<br />
+    BTW 
+    <ol> Some great YouTube channels to learn from;
+      <li> <a href="https://www.youtube.com/c/NetworkChuck" > NetworkChuck </a></li>
+      <li> <a href="https://www.youtube.com/c/TheCoderCoder" > Codercoder </a></li>
+      <li> <a href="https://www.youtube.com/c/Cyberspatial" > Cyberspacial </a> </li>
+          </ol></p>
+    <p>
+      After finding about these, I started learning HTML (Hypertext Markup Language) and at the time I didn't even knew which programming language I was learning. I finished HTML quite easily and continued learning CSS (Cascading Style Sheets) a bit till I realised that I didn't need those for iOS app developing.
+      So I lost interest and stopped learning for some time.
+      By the way HTML is for webcontent, and CSS is for webdesign. As far as I know :)
+        </p>
+     <p>If you have any suggestions :) <br />
+        Email me at Uzairkhan1232211@yahoo.com<form action="https://www.yahoo.com">
+        <input type="text" placeholder="Email" required> 
+        <button type="submit">submit</button>
+    </form>
+<br />
+        This email section might not be functional so kindly email me directly:)
+            
+    </p>
+
+</body>
+</html>
