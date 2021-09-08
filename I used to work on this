@@ -1,0 +1,44 @@
+<!DOCTYPE html >
+<html>
+    <head><!--any markup with info about your page would go into the head tag-->
+        <title  align="left"><i>KHAN'S BLOG</i></title>
+    <h1><font color="#1D2951">My Skills</font></h1>
+    <ul>
+        <li>HTML</li>
+        <li>Cybersecurity(some)</li>
+        
+    </ul>
+</head><!--metadata elements like:link,meta,title,style typically go inside the head element-->
+<body bgcolor="#008ECC"> <!--any markup with the content of the page which will be shown to the user would go into the body tag-->
+
+
+    <p allign="center">From a coder newbie!! </p>
+    <p> Hi my name is <strong>Uzair.</strong>
+    I started coding about 3 months ago. At first,
+    I wanted to become a cyberscurity expert and also I wanted to learn about iOS app developing ; I know cyberscurity and coding might not sound related to oneanother.
+    But I didn't knew what to start with so, I started searching online and I learnd that the coding language for iOS is Swift.
+    </p>
+    <img src="https://i.pinimg.com/originals/3b/33/bd/3b33bdba1b32d90aec9c6d4303272951.jpg" target="_blank" height="150px" width="150px" border="2px" alt="the doer and the thinker"/>
+    <p> So, I started taking classes online ie: watching videos and  I found out about these website called SOLOLEARN AND <FREECODECAMP class="ORG">FREECODECAMP</FREECODECAMP> Which are both excellent and free.
+   
+       <ol> Some great YouTube channels to learn from :
+    <li> <a href="https://www.youtube.com/c/NetworkChuck" > NetworkChuck </a></li>
+    <li> <a href="https://www.youtube.com/c/TheCoderCoder" > Codercoder </a></li>
+    <li> <a href="https://www.youtube.com/c/Cyberspatial" > Cyberspacial </a> </li>
+        </ol></p>
+        </p>   
+    Then I started learning HTML (Hypertext Markup Language) and at the I didn't even knew which programming language I was learning. I finished HTML quite easily and continued learning CSS (Cascading Style Sheets) a bit till I realised that I didn't need those for iOS app developing.
+    So I stoped learning for some time. And I was waiting for my brother to get me a macbook as it is better to learn iOS app developing on a macbook than a windows pc.
+    By the way HTML is for webcontent, and CSS is for webdesign. As far as I know :)
+        </p>
+    <p>If you have any suggestions :) <br />
+        Email me at Uzairkhan1232211@yahoo.com<form action="https://www.sololearn.com">
+        <input type="text" placeholder="Email" required> 
+        <button type="submit">submit</button>
+    </form>
+<br />
+        This email section might not be functional so kindly email me directly:)
+            
+    </p>
+        </body>
+</html>
